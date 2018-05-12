@@ -1,4 +1,8 @@
 _repo: Runola_51098
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gottlund, Carl Axel
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44225
     wikipedia: http://fi.wikipedia.org/wiki/Carl_Axel_Gottlund
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51098#Runola
 gutenberg_issued: '2016-02-01'
 gutenberg_type: Text
 identifiers:
